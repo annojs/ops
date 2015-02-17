@@ -2,7 +2,7 @@
   "name": "annoops",
   "description": "Annotated operands for JavaScript",
   "author": "Juho Vepsalainen <bebraw@gmail.com>",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "dependencies": {
     "annois": "^0.3.2",
     "annotate": "^0.9.1",
